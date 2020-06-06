@@ -1,0 +1,15 @@
+.search-box input[type="search"] {
+  width: 16rem;
+  font-size: 1.1rem;
+  line-height: 2rem;
+  margin-top: 2rem;
+  padding: 0.7rem 1rem;
+  border: none;
+  border-bottom: 1px solid #777;
+}
+
+.search-box input[type="search"]:focus {
+  outline: none;
+  border: none;
+  border-bottom: 2px solid #72ccaa;
+}

@@ -1,0 +1,13 @@
+.card-list {
+  width: 80vw;
+  margin: 4rem auto;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  justify-content: center;
+  gap: 2rem;
+}
+
+.card-list h1 {
+  width: 100%;
+  background-color: brown;
+}
